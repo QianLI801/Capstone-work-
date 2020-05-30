@@ -1,4 +1,6 @@
-Hello Capstone Project Cours
+i
 
-print (Hellp Capstone Project Course!)
+print ("hello,capstone project course!")
 
+
+https://github.com/QianLI801/Capstone-work-.gii
