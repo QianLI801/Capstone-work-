@@ -1,4 +1,3 @@
-Hello Capstone Project Cours
-
-print (Hellp Capstone Project Course!)
-
+import numpy as np
+import pandas as pd
+print ("Hello Capstone project course")
